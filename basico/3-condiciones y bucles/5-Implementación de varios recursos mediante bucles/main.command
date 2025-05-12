@@ -1,0 +1,1 @@
+New-AzResourceGroupDeployment -Name main -TemplateFile main.bicep -ResourceGroupName  learn-7ef44fc1-b84e-4b27-b254-121299890329
