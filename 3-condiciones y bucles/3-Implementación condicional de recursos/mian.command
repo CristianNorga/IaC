@@ -1,0 +1,1 @@
+New-AzResourceGroupDeployment -Name main -TemplateFile main.bicep -location eastus2 -ResourceGroupName  learn-e5875d05-aaea-4cf6-ae56-209bfa1a894b
